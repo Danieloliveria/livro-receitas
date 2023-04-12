@@ -1,4 +1,5 @@
-# Strogonoff de Frango :chi
+
+# Strogonoff de Frango :chi:
 
 
 ### Ingredientes 
